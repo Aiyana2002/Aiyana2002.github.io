@@ -1,0 +1,241 @@
+:: StoryTitle
+Twine story 
+
+
+:: StoryData
+{
+  "ifid": "605FE841-AF15-466B-9B1D-77B2B257531E",
+  "format": "Harlowe",
+  "format-version": "3.3.7",
+  "start": "mini assignment 2",
+  "zoom": 1
+}
+
+
+:: \ Swimming Test {"position":"150,2550","size":"100,100"}
+(after:1s)[(text-style:"expand")[''The local authorities lead you to a nearby pond to do the swimming test'']]. (after:3s)[(text-style:"expand")[''If you float you are a witch, if you sink, you are innocent. However, since scientifically this test does not prove whether you are a witch or not, you more than likely will sink, proving that you are indeed innocent.'']]
+
+[[Go here]]
+
+
+:: \ The myth of Bloody Mary {"position":"1050,350","size":"100,100"}
+(after:1s)[(text-style:"sway")[''Bloody Mary was a nickname given to Queen Mary during her reign. '']
+]
+[[Click to find out why]]
+
+<a href="https://imgflip.com/i/846ho0"><img src="https://i.imgflip.com/846ho0.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+
+
+:: Actually this is infact a myth! Tudor witch trials and witch hunts were less extreme than its European counterparts. {"position":"0,500","size":"100,100"}
+
+
+
+:: Based on English history, Queen Mary has killed over hundreds of English Protestants who refused to convert to catholicism. As a result her actions made her look like a brutal queen. However, there could be underlying factors of her actions such as the resistance of Protestant leaders. The amount of people she killed may have been over exaggerated as well {"position":"1075,1325","size":"100,100"}
+(text-style:"sway")[''All of these factors may have led to the over exaggeration of the name  “Bloody Mary”.'']
+
+
+:: Before Queen Mary’s reign, her father established the Church of England which led to the creation of English Protestants. Growing up with a catholic mother, Queen Mary favored catholicism and wanted to establish the religion back in England. In the eyes of the people of England, her commitment to the religion may have been looked upon as a catholic extremist. {"position":"1250,1075","size":"100,100"}
+(text-style:"sway")[''All of these factors may have led to the over exaggeration of the name  “Bloody Mary”.'']
+
+
+:: Bible Test {"position":"325,1225","size":"100,100"}
+(after:1s)[(text-style:"expand")[the local authorities lead you to a nearby balance scale with the Bible on one scale. ](text-style:"expand")[''You are then told to stand on the other scale. If the Bible is heavier than you, you are a witch, however if the Bible is lighter than you, you are innocent. Since this test does not scientifically prove whether you are a witch or not, the Bible will more than likely be lighter than you, allowing you to walk away scot free.
+]'']
+[[Go here]]
+
+
+:: Click here {"position":"675,600","size":"100,100"}
+[[Even with individuals accused of practicing witchcraft, English witchcraft trials often leaned in to the accused's favor]]
+
+
+:: Click here to find out more information {"position":"600,375","size":"100,100"}
+(after:1s)[''In fact, Individuals known as village healers who use herbal medicine and folk healing were looked upon as valuable members of the community in England''.](after:3s)['' Other individuals such as eccentric gentlemen were looked at as people with an interest of esoteric knowledge rather than malevolent.'']
+(after:5s)[''In other countries, these actions would be looked as practicing witchcraft.'']
+
+[[Click here]]
+
+
+:: Click here to learn more {"position":"1775,0","size":"100,100"}
+(after:2s)[(text-style:"expand")[''Only the rich were able to wear beautiful extravagant clothing, because they were able to afford it''].]
+(after:4s)[(text-style:"expand")[''The poor wore loose fitted clothing made of wool.'']
+]
+(after:6s)[(text-style:"sway")[''Pick your ruler!'']
+][[King Henry VIII]]
+[[Queen Mary I]]
+[[Queen Elizabeth I]]
+
+
+:: Click to find out why {"position":"825,600","size":"100,100"}
+(after:1s)[''Queen Mary was known for her brutal reign over England'']. (after:2s)[''It has been said that she has killed and burned over hundreds of protestants, earning her the name Bloody Mary''.] (after:3s)[''However, Queen Mary’s actions may have been overexaggerated by the people of England''. ]
+[[Here is why]]
+
+
+:: Even with individuals accused of practicing witchcraft, English witchcraft trials often leaned in to the accused's favor {"position":"425,650","size":"100,100"}
+[[So how did people get accused for being a witch in England?]]
+
+ (after:1s)[(text-style:"expand")[''Pretend you are walking the streets of London on your way home from obtaining meat to cook with for supper''].] (after:3s)[''At the end of the street, there are a group of people blocking your home'']. (after:5s)[(text-style:"sway")[''These people are accusing you of being a witch!! Pick your accusation statement''].]
+ 
+ [[“Mary, you have brought deaths and diseases to our families and livestocks! Therefore you would be tried as a witch!”]]
+
+ [[“Mary, you have harmed our children and cursed them! Therefore you would be tried as a witch!”]]
+ 
+ [[“Mary, you have caused us to have miscarriages and our milk to sour! We know you are a witch!”]]
+
+
+:: Go here {"position":"325,1350","size":"100,100"}
+(after:1s)[(text-style:"sway")[''If a person did not pass one of the two tests, the person would be hung to death, which is a less severe punishment compared to England's European counterparts where accused witches would burn to death or boil alive.'']]
+
+<a href="https://imgflip.com/i/846hx1"><img src="https://i.imgflip.com/846hx1.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+
+
+:: Here is why {"position":"1525,1225","size":"100,100"}
+(text-style:"buoy")[''Click on each topic
+'']
+[[Queen Mary’s determination to bring Catholicism back to England:]]
+
+[[The decision to marry Phillip II of Spain:]]
+
+[[The killings and burnings of English Protestants:]]
+
+
+:: King Henry VIII {"position":"1575,0","size":"100,100"}
+(text-style:"buoy")[''Pick an option: 
+''] [[Rich man]]
+ [[Poor man]]
+ [[Rich woman]]
+ [[Poor woman]]
+
+
+:: No! {"position":"275,175","size":"100,100"}
+[[Actually this is infact a myth! Tudor witch trials and witch hunts were less extreme than its European counterparts.]]
+
+[[Click here to find out more information]]
+
+
+:: Poor man {"position":"1625,300","size":"100,100"}
+(after:1s)[(text-style:"expand")[''You wake up to your shared small bed with your family''].]
+(after:3s)[(text-style:"bold","expand")[It is another day of hard work for you and you begin to get dressed].](after:5s)[(text-style:"bold","expand")[ Your clothes consist of a brown patched up tunic and trousers made from wool. On your feet you have hand-me down shoes made from leather].] 
+(after:6s)[(text-style:"bold","expand")[After putting your clothes on you head on to work]]
+
+
+:: Poor woman {"position":"1925,525","size":"100,100"}
+(after:1s)[''You wake up to your shared bed with your family''.
+](after:3s)[''It is another day of house work for you and you begin to get dressed''. ](after:5s)[''Your clothes consist of a patched up brown gown made of wool and a bonnet for your head''. ](after:7s)[''On your feet you have hand-me down shoes made from leather. After putting your clothes on you start making breakfast for your children.'']
+
+
+:: Queen Elizabeth I {"position":"3325,250","size":"100,100"}
+Pick an option: 
+ [[Rich man]]
+ [[Poor man]]
+ [[Rich woman]]
+ [[Poor woman]]
+
+
+:: Queen Mary I {"position":"1275,200","size":"100,100"}
+(text-style:"buoy")[''Pick an option: 
+''] [[Rich man]]
+ [[Poor man]]
+ [[Rich woman]]
+ [[Poor woman]]
+
+
+:: Queen Mary’s determination to bring Catholicism back to England: {"position":"1250,850","size":"100,100"}
+[[Before Queen Mary’s reign, her father established the Church of England which led to the creation of English Protestants. Growing up with a catholic mother, Queen Mary favored catholicism and wanted to establish the religion back in England. In the eyes of the people of England, her commitment to the religion may have been looked upon as a catholic extremist.]]
+
+
+:: Rich man {"position":"1500,575","size":"100,100"}
+[[You wake up from your huge luxurious bed to another day in the paradise of London. You see your outfit of the day hanging up in your closet. Your outfit consists of a red closed fitting jacket called a doublet, tight fitting white trousers called hose, a shiny metal codpiece, a fur lined cloak, a red velvet flat cap, leather pointed shoes, and to top off your look gold rings and gold necklaces. You call your servant to your room to help you get ready.]]
+
+<a href="https://imgflip.com/i/846h96"><img src="https://i.imgflip.com/846h96.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+
+
+:: Rich woman {"position":"1400,425","size":"100,100"}
+[[You wake up from your huge luxurious bed to another day in the paradise of London. You see your outfit of the day hanging up in your closet. Your outfit consists of a silky gold embroidered gown, a white hooped skirt to go underneath your dress called a farthingale, a gold embroidered corset to shape your woman figure, red puffy embroidered sleeves for your arms, a white headdress, leather pointed shoes, and to top off your look, gold necklaces and gold rings.You call your servant to your room to help you get ready.]]
+
+<a href="https://imgflip.com/i/846hju"><img src="https://i.imgflip.com/846hju.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+
+
+:: So how did people get accused for being a witch in England? {"position":"125,1075","size":"100,100"}
+
+
+
+:: The Queen’s decision to marry Phillip II was not a favorite for the people of England. Queen Mary’s decision to marry Phillip II was based upon her eagerness to create a catholic heir. Her hope was to keep catholicism within the throne without any interference from English protestants. However her decision to marry Phillip II gave Spain access to England which the people of England were not happy about. {"position":"1700,2625","size":"100,100"}
+(text-style:"sway")[''All of these factors may have led to the over exaggeration of the name  “Bloody Mary”.'']
+
+
+:: The decision to marry Phillip II of Spain: {"position":"925,975","size":"100,100"}
+[[The Queen’s decision to marry Phillip II was not a favorite for the people of England. Queen Mary’s decision to marry Phillip II was based upon her eagerness to create a catholic heir. Her hope was to keep catholicism within the throne without any interference from English protestants. However her decision to marry Phillip II gave Spain access to England which the people of England were not happy about.]]
+
+
+:: The killings and burnings of English Protestants: {"position":"1075,1075","size":"100,100"}
+[[Based on English history, Queen Mary has killed over hundreds of English Protestants who refused to convert to catholicism. As a result her actions made her look like a brutal queen. However, there could be underlying factors of her actions such as the resistance of Protestant leaders. The amount of people she killed may have been over exaggerated as well]]
+
+
+:: They then take you away to be tried as a witch. However, in order to prove that you are a witch, you must do a test. Pick your test {"position":"700,1900","size":"100,100"}
+
+
+
+:: Tudor clothing myth {"position":"1400,0","size":"100,100"}
+(after:1s)[''All a lot of people believe that all English people during Tudor times wore extravagant clothing however this is not true''
+]
+[[Click here to learn more]]
+
+
+:: Tudor witch hunts {"position":"750,125","size":"100,100"}
+(after:1s)[(text-style:"sway")[''Did you know the Tudor period was known for their enourmous witch hunts and witch  trials??'']
+]
+[[Yes!!]]
+[[No!]]
+
+<a href="https://imgflip.com/i/846hsj"><img src="https://i.imgflip.com/846hsj.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+
+
+
+:: Yes!! {"position":"1075,500","size":"100,100"}
+[[Actually this is infact a myth! Tudor witch trials and witch hunts were less extreme than its European counterparts.]]
+
+[[Click here to find out more information]]
+
+
+:: You wake up from your huge luxurious bed to another day in the paradise of London. You see your outfit of the day hanging up in your closet. Your outfit consists of a red closed fitting jacket called a doublet, tight fitting white trousers called hose, a shiny metal codpiece, a fur lined cloak, a red velvet flat cap, leather pointed shoes, and to top off your look gold rings and gold necklaces. You call your servant to your room to help you get ready. {"position":"1625,725","size":"100,100"}
+(after:1s)[(text-style:"sway")[''Another misconception of Tudor clothing is that it consisted of restrictive and uncomfortable clothing which is not the case. The rich's clothing were tailored and made to fit comfortably despite the layers of clothing''].]
+
+
+:: You wake up from your huge luxurious bed to another day in the paradise of London. You see your outfit of the day hanging up in your closet. Your outfit consists of a silky gold embroidered gown, a white hooped skirt to go underneath your dress called a farthingale, a gold embroidered corset to shape your woman figure, red puffy embroidered sleeves for your arms, a white headdress, leather pointed shoes, and to top off your look, gold necklaces and gold rings.You call your servant to your room to help you get ready. {"position":"1875,700","size":"100,100"}
+(text-style:"buoy")[''Another misconception of Tudor clothing is that it consisted of restrictive and uncomfortable clothing which is not the case. The rich's clothing were tailored and made to fit comfortably despite the layers of clothing.'']
+
+
+:: mini assignment 2 {"position":"1225,0","size":"100,100"}
+(after:1s)[''(text-style:"expand")[Hello]''! ] 
+(after:2s)[(text-style:"bold","emboss","sway")[This is the start of our journey.]]
+(after:3s)[(text-style:"bold","expand")[It is about common Tudor myths in English History that took place between the late 15th century to the early 17th century.]
+]
+(after:4s)[(text-style:"expand")[''(text-style:"buoy")[Our journey starts with]'']
+]
+[[Tudor clothing myth]]
+[[Tudor witch hunts]]
+[[ The myth of Bloody Mary]]
+
+
+:: “Mary, you have brought deaths and diseases to our families and livestocks! Therefore you would be tried as a witch!” {"position":"725,825","size":"100,100"}
+[[They then take you away to be tried as a witch. However, in order to prove that you are a witch, you must do a test. Pick your test]]
+
+[[ Swimming Test]] 
+
+[[Bible Test]]
+
+
+:: “Mary, you have caused us to have miscarriages and our milk to sour! We know you are a witch!” {"position":"600,1125","size":"100,100"}
+[[They then take you away to be tried as a witch. However, in order to prove that you are a witch, you must do a test. Pick your test]] 
+
+[[ Swimming Test]] 
+
+[[Bible Test]]
+
+
+:: “Mary, you have harmed our children and cursed them! Therefore you would be tried as a witch!” {"position":"50,925","size":"100,100"}
+[[They then take you away to be tried as a witch. However, in order to prove that you are a witch, you must do a test. Pick your test]]
+
+[[ Swimming Test]]
+
+[[Bible Test]]
